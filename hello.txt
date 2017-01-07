@@ -1,3 +1,5 @@
-print("hello world")
-привет
-ку
+
+print("hello world")жжж
+приветжжж
+кужжж
+print("hello world")ЖЖЖЖ
